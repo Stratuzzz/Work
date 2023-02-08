@@ -15,7 +15,7 @@
           map: ["enum.SolutionContainerLayers.Base"]
     - type: Item
       sprite: Objects/Specific/Chemistry/injector.rsi
-      state: injector
+    - state: injector
       size: 7
     - type: SolutionContainerManager
       solutions:
